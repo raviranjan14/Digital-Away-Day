@@ -1,0 +1,43 @@
+Raviranjans-MacBook-Pro:target raviranjan$ java -jar DigitalAwayDay.jar --activities.file=/Users/raviranjan/Downloads/Digital\ Away\ Day/src/main/resources/txt/activity.txt
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v2.1.4.RELEASE)
+
+2019-06-09 16:33:00.767  INFO 40509 --- [           main] com.deloitte.DigitalAwayDayApplication   : Starting DigitalAwayDayApplication v0.0.1-SNAPSHOT on Raviranjans-MacBook-Pro.local with PID 40509 (/Users/raviranjan/Downloads/Digital Away Day/target/DigitalAwayDay.jar started by raviranjan in /Users/raviranjan/Downloads/Digital Away Day/target)
+2019-06-09 16:33:00.769  INFO 40509 --- [           main] com.deloitte.DigitalAwayDayApplication   : No active profile set, falling back to default profiles: default
+2019-06-09 16:33:01.262  INFO 40509 --- [           main] com.deloitte.DigitalAwayDayApplication   : Started DigitalAwayDayApplication in 0.765 seconds (JVM running for 1.092)
+2019-06-09 16:33:01.284  INFO 40509 --- [           main] c.d.d.service.impl.PrintListImpl         : Team1
+2019-06-09 16:33:01.284  INFO 40509 --- [           main] c.d.d.service.impl.PrintListImpl         : 09:00 AM : Duck Herding 60min
+2019-06-09 16:33:01.284  INFO 40509 --- [           main] c.d.d.service.impl.PrintListImpl         : 10:00 AM : Archery 45min
+2019-06-09 16:33:01.284  INFO 40509 --- [           main] c.d.d.service.impl.PrintListImpl         : 10:45 AM : Learning Magic Tricks 40min
+2019-06-09 16:33:01.284  INFO 40509 --- [           main] c.d.d.service.impl.PrintListImpl         : 11:25 AM : Lunch Break 60min
+2019-06-09 16:33:01.284  INFO 40509 --- [           main] c.d.d.service.impl.PrintListImpl         : 12:25 PM : Laser Clay Shooting 60min
+2019-06-09 16:33:01.284  INFO 40509 --- [           main] c.d.d.service.impl.PrintListImpl         : 01:25 PM : Human Table Football 30min
+2019-06-09 16:33:01.284  INFO 40509 --- [           main] c.d.d.service.impl.PrintListImpl         : 01:55 PM : Buggy Driving 30min
+2019-06-09 16:33:01.284  INFO 40509 --- [           main] c.d.d.service.impl.PrintListImpl         : 02:25 PM : Salsa & Pickles 15min
+2019-06-09 16:33:01.284  INFO 40509 --- [           main] c.d.d.service.impl.PrintListImpl         : 02:40 PM : 2-wheeled Segways 45min
+2019-06-09 16:33:01.285  INFO 40509 --- [           main] c.d.d.service.impl.PrintListImpl         : 03:25 PM : Viking Axe Throwing 60min
+2019-06-09 16:33:01.285  INFO 40509 --- [           main] c.d.d.service.impl.PrintListImpl         : 04:25 PM : Giant Puzzle Dinosaurs 30min
+2019-06-09 16:33:01.285  INFO 40509 --- [           main] c.d.d.service.impl.PrintListImpl         : 04:55 PM : Staff Motivation Presentation 
+2019-06-09 16:33:01.285  INFO 40509 --- [           main] c.d.d.service.impl.PrintListImpl         : 
+2019-06-09 16:33:01.285  INFO 40509 --- [           main] c.d.d.service.impl.PrintListImpl         : 
+2019-06-09 16:33:01.285  INFO 40509 --- [           main] c.d.d.service.impl.PrintListImpl         : Team2
+2019-06-09 16:33:01.285  INFO 40509 --- [           main] c.d.d.service.impl.PrintListImpl         : 09:00 AM : Giant Digital Graffiti 60min
+2019-06-09 16:33:01.285  INFO 40509 --- [           main] c.d.d.service.impl.PrintListImpl         : 10:00 AM : Cricket 2020 60min
+2019-06-09 16:33:01.285  INFO 40509 --- [           main] c.d.d.service.impl.PrintListImpl         : 11:00 AM : Lunch Break 60min
+2019-06-09 16:33:01.285  INFO 40509 --- [           main] c.d.d.service.impl.PrintListImpl         : 12:00 PM : Wine Tasting 15min
+2019-06-09 16:33:01.285  INFO 40509 --- [           main] c.d.d.service.impl.PrintListImpl         : 12:15 PM : Arduino Bonanza 30min
+2019-06-09 16:33:01.285  INFO 40509 --- [           main] c.d.d.service.impl.PrintListImpl         : 12:45 PM : Digital Tresure Hunt 60min
+2019-06-09 16:33:01.285  INFO 40509 --- [           main] c.d.d.service.impl.PrintListImpl         : 01:45 PM : Enigma Challenge 45min
+2019-06-09 16:33:01.285  INFO 40509 --- [           main] c.d.d.service.impl.PrintListImpl         : 02:30 PM : Monti Carlo or Bust 60min
+2019-06-09 16:33:01.285  INFO 40509 --- [           main] c.d.d.service.impl.PrintListImpl         : 03:30 PM : New Zealand Haka 30min
+2019-06-09 16:33:01.285  INFO 40509 --- [           main] c.d.d.service.impl.PrintListImpl         : 04:00 PM : Time Tracker 15min
+2019-06-09 16:33:01.285  INFO 40509 --- [           main] c.d.d.service.impl.PrintListImpl         : 04:15 PM : Indiano Drizzle 45min
+2019-06-09 16:33:01.285  INFO 40509 --- [           main] c.d.d.service.impl.PrintListImpl         : 05:00 PM : Staff Motivation Presentation 
+2019-06-09 16:33:01.285  INFO 40509 --- [           main] c.d.d.service.impl.PrintListImpl         : 
+2019-06-09 16:33:01.285  INFO 40509 --- [           main] c.d.d.service.impl.PrintListImpl         : 
